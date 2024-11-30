@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px
+}
+
+/* Apply a background image to the entire body */
+body {
+    background-image: url('Rizzler.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #f0f0f0;
+    background-color: rgba(0, 255, 110, 0.543);
+}
+
+h1 {
+    color: orange;
+}
+p{
+    color: red;
+}
+img{
+    margin: 20px;
+    width: 250px;
+    height: 200px;
+}
